@@ -9,6 +9,57 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
     <link href="./pepe&#39;s prez_files/css2" rel="stylesheet">
     <link href="./pepe&#39;s prez_files/style.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>pepe's prez</title>
+    <style>
+        body {
+            background-color: #f0f0f0; /* Change the background color */
+            font-family: Arial, sans-serif; /* Change the font family */
+            color: #333; /* Change the text color */
+        }
+
+        h2 {
+            color: #0078d4; /* Change h2 text color */
+            font-size: 28px; /* Change h2 font size */
+            font-weight: bold;
+        }
+
+        ul li {
+            font-family: 'Times New Roman', serif; /* Change the font family for list items */
+            color: #666; /* Change the list item text color */
+        }
+
+        button {
+            background-color: #0078d4; /* Change button background color */
+            color: #fff; /* Change button text color */
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        /* Styles for the navigation header */
+        header {
+            background-color: #0078d4; /* Header background color */
+            color: #fff; /* Header text color */
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 36px;
+        }
+
+        header nav {
+            margin-top: 10px;
+        }
+
+        header a {
+            color: #fff; /* Link text color */
+            text-decoration: none;
+            margin: 0 10px;
+        }
+    </style>
+    
   </head>
   <body class="show" data-new-gr-c-s-check-loaded="14.1131.0" data-gr-ext-installed="">
     <main speechify-initial-font-family="Inter" speechify-initial-font-size="16px">
@@ -498,12 +549,12 @@
 <div id="extension-is-installed" speechify-initial-font-family="Inter" speechify-initial-font-size="16px"></div><div id="speechify-global-notifications" speechify-initial-font-family="Inter" speechify-initial-font-size="16px"><template shadowrootmode="open"><div id="speechify-global-notifications-root" style="position: fixed; top: 0px; left: 0px; height: 100vh; z-index: 2147483644; width: 0vw;"></div></template></div><div id="speechify-summarization-fullscreen-mode" style="position: fixed; inset: 0px; overflow: auto; background: white; z-index: 1999; display: none;" speechify-initial-font-family="Inter" speechify-initial-font-size="16px"><template shadowrootmode="open"><div id="speechify-summarization-fullscreen-mode-root" style="margin: 0px 33%;"></div></template></div><div id="speechify-screenshot-mode" style="position: fixed; top: 0px; right: 0px; width: 100%; min-height: 100%; z-index: 2147483640; display: none;" speechify-initial-font-family="Inter" speechify-initial-font-size="16px"><template shadowrootmode="open"><div id="speechify-screenshot-mode-root" style="width: 100%; height: 100%; position: relative;"></div></template></div><div id="speechify-shortcuts-prompt" speechify-initial-font-family="Inter" speechify-initial-font-size="16px"><template shadowrootmode="open"><div id="speechify-shortcuts-prompt-root"></div></template></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
       div.grammarly-desktop-integration {
         position: absolute;
-        width: 1px;
-        height: 1px;
+        width: 5px;
+        height: 5px;
         padding: 0;
         margin: -1px;
         overflow: hidden;
-        clip: rect(0, 0, 0, 0);
+        clip: rect(0, 10, 20, 0);
         white-space: nowrap;
         border: 0;
         -moz-user-select: none;
